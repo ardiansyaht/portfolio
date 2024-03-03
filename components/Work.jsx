@@ -31,7 +31,7 @@ const projectData = [
     category: "React js",
     name: "Personal Website",
     description: "Portfolio ",
-    link: "https://portfolio-ardiansyaht.vercel.app/",
+    link: "https://portfolio-ardhiansyah.vercel.app/",
     github: "https://github.com/ardiansyaht/portfolio",
   },
   {
