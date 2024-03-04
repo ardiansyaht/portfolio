@@ -26,7 +26,7 @@ const Hero = () => {
             </div>
             <h1 className="h1">Hello, My name is Ardhiansyah Tanjung</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
-              Enthusiastic Website
+              Enthusiast tech
             </p>
             {/*button*/}
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
