@@ -51,7 +51,7 @@ const Hero = () => {
           <div className="hidden xl:flex relative">
             {/*badge 1 */}
             <Badge
-              containerStyles="absolute top-[24%] -left-[5rem]"
+              containerStyles="absolute top-[24%] -left-[35rem]"
               icon={<RiBriefcaseFill />}
               endCountNum={30}
               badgeText="Years Of Experience"
@@ -66,13 +66,13 @@ const Hero = () => {
             />
             {/*badge 3 */}
             <Badge
-              containerStyles="absolute top-[55%] -right-8"
+              containerStyles="absolute top-[24%] -right-8"
               icon={<RiTeamFill />}
               endCountNum={55}
               endCountText="k"
               badgeText="Happy Client"
             />
-            <div className="bg-hero_shape2_light dark:bg-hero_shape2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 right-2"></div>
+{/*             <div className="bg-hero_shape2_light dark:bg-hero_shape2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 right-2"></div> */}
             {/* <DevImg
               containerStyles="bg-hero_shape w-[510px] h-[462px] bg-no-repeat relative bg-bottom"
               imgSrc="/hero/developer.png"
